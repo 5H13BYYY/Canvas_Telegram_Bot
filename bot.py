@@ -108,8 +108,9 @@ def tg_send(text, button_url=None):
 
 # ---------- Canvas client ----------
 class Canvas:
-    def __init__(self, name, base_url, token):
+    def __init__(self, name, base_url, token, expires=None):
         self.name = name
+        self.expires = expires  # optional "YYYY-MM-DD" for expiry warnings
         self.base = base_url.rstrip("/")
         self.s = requests.Session()
         self.s.headers["Authorization"] = f"Bearer {token}"
@@ -300,10 +301,32 @@ def poll_account(c, state):
     return sent
 
 
+def check_expiry(c, state):
+    """Warn on Telegram (once a day) when the Canvas token is about to expire."""
+    if not c.expires:
+        return
+    today = datetime.now(timezone.utc).date()
+    days = (datetime.fromisoformat(c.expires).date() - today).days
+    if days > 3:
+        return
+    key = f"{c.name}:expiry:{today}"
+    if key in state["seen"]:
+        return
+    state["seen"][key] = datetime.now(timezone.utc).isoformat()
+    when = f"expires in {days} day(s)" if days >= 0 else "has expired"
+    tg_send(
+        f"⚠️ Canvas token for <b>{esc(c.name)}</b> {when}. "
+        "Create a new token in Canvas and update the CANVAS_ACCOUNTS secret on GitHub."
+    )
+
+
 def poll_once(accounts, state):
     for c in accounts:
         try:
             n = poll_account(c, state)
+            if c.name in state.get("warned", []):
+                state["warned"].remove(c.name)  # token works again, re-arm the 401 warning
+            check_expiry(c, state)
             print(f"[{datetime.now():%H:%M:%S}] {c.name}: {n} alert(s) sent")
         except requests.HTTPError as e:
             code = e.response.status_code if e.response is not None else "?"
@@ -353,7 +376,7 @@ def main():
         data = json.loads(ACCOUNTS_FILE.read_text(encoding="utf-8"))
     else:
         sys.exit("Create accounts.json (see accounts.example.json) or set CANVAS_ACCOUNTS")
-    accounts = [Canvas(a["name"], a["base_url"], a["token"]) for a in data]
+    accounts = [Canvas(a["name"], a["base_url"], a["token"], a.get("expires")) for a in data]
 
     state = load_state()
     while True:
