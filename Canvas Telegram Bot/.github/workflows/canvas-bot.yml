@@ -2,11 +2,11 @@ name: canvas-bot
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes
-  workflow_dispatch:          # lets you run it manually from the Actions tab
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write             # needed to save state.json back to the repo
+  contents: write
 
 concurrency:
   group: canvas-bot
