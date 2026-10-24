@@ -97,11 +97,1667 @@
   "AUPP:asn:78196": "2026-10-23T11:31:27.711776+00:00",
   "AUPP:asn:78327": "2026-10-23T11:31:27.711776+00:00",
   "AUPP:asn:78965": "2026-10-23T11:31:27.711776+00:00",
-  "AUPP:asn:79228": "2026-10-24T10:47:52.797695+00:00"
+  "AUPP:asn:79228": "2026-10-24T10:47:52.797695+00:00",
+  "AUPP:mod:135204": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:135205": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:135739": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:135740": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:135914": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137224": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137474": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137907": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138040": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138667": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139010": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139251": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139252": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139788": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139789": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:135576": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140110": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140111": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140382": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:141864": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140839": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:132864": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:132937": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:132939": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:132882": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:132951": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:132947": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:132952": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:132972": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:132940": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136427": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:132941": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:132942": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:132945": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:132977": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137031": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:132943": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:141839": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:141872": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136379": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136380": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:135832": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:135920": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:135836": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136476": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136395": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136396": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136426": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136474": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136483": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136938": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136936": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137199": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137200": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137032": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137370": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137374": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137375": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137557": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137556": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137558": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137895": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137896": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138151": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138152": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137656": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138157": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138158": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138288": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138159": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138810": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138713": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138714": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138715": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138993": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138998": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138999": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139664": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139001": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139245": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139775": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139360": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139361": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139926": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139927": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140177": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140229": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140438": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140162": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140163": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140164": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140165": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140912": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140913": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140914": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140455": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140915": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:141861": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:141877": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:141878": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:141879": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:141880": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:133873": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:133875": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:135751": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:135862": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136350": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136929": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136930": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137195": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137450": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138953": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138954": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138950": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138951": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138952": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136104": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136107": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136109": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136466": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136468": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137402": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138255": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138256": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138518": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139065": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139648": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140142": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140614": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:134888": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:135845": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:135846": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136385": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136386": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136843": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:136844": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137171": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137172": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137865": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:137866": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138089": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138090": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138403": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138404": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:138974": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139191": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139192": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139496": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139562": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140069": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139761": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:139762": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:140836": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:141833": "2026-10-24T12:25:12.848995+00:00",
+  "AUPP:mod:141834": "2026-10-24T12:25:12.848995+00:00"
  },
  "initialized": [
   "AUPP",
   "AUPP:ann",
-  "AUPP:asn"
- ]
+  "AUPP:asn",
+  "AUPP:mod"
+ ],
+ "fp": {
+  "AUPP:ann:45759": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Midterm Examination Announcement",
+    "body": "f8966f909c6f"
+   }
+  },
+  "AUPP:asn:76784": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Roll Call Attendance",
+    "due_at": null,
+    "points_possible": null,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "da39a3ee5e6b"
+   }
+  },
+  "AUPP:asn:78139": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Assignment_1",
+    "due_at": null,
+    "points_possible": 10.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "a035b7b79d6f"
+   }
+  },
+  "AUPP:asn:78594": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "LockDown Browser Practice Quiz- Requires Respondus LockDown Browser",
+    "due_at": null,
+    "points_possible": 0.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "da39a3ee5e6b"
+   }
+  },
+  "AUPP:asn:78811": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Midterm- Requires Respondus LockDown Browser",
+    "due_at": null,
+    "points_possible": 20.0,
+    "unlock_at": "2026-10-20T06:45:00Z",
+    "lock_at": "2026-10-20T08:20:00Z",
+    "desc": "da39a3ee5e6b"
+   }
+  },
+  "AUPP:asn:75655": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Lab 1",
+    "due_at": "2026-08-25T03:15:00Z",
+    "points_possible": 2.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "b8897e36ec9e"
+   }
+  },
+  "AUPP:asn:75656": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Quiz 1",
+    "due_at": "2026-08-25T03:15:00Z",
+    "points_possible": 1.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "6f431c2633d6"
+   }
+  },
+  "AUPP:asn:76750": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Roll Call Attendance",
+    "due_at": null,
+    "points_possible": 100.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "da39a3ee5e6b"
+   }
+  },
+  "AUPP:asn:77117": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Quiz 2",
+    "due_at": "2026-09-01T03:15:00Z",
+    "points_possible": 1.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "f8b3ec1f2609"
+   }
+  },
+  "AUPP:asn:77118": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Lab 2",
+    "due_at": "2026-09-01T03:15:00Z",
+    "points_possible": 2.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "4884e8b7b5a6"
+   }
+  },
+  "AUPP:asn:77293": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Quiz 3",
+    "due_at": "2026-09-08T03:15:00Z",
+    "points_possible": 1.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "5183c09b5ec1"
+   }
+  },
+  "AUPP:asn:77294": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Lab 3",
+    "due_at": "2026-09-08T03:15:00Z",
+    "points_possible": 2.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "7f5486f8a55c"
+   }
+  },
+  "AUPP:asn:77536": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Quiz 4",
+    "due_at": "2026-09-15T03:15:00Z",
+    "points_possible": 1.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "b8654e5b5b6f"
+   }
+  },
+  "AUPP:asn:77537": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Lab 4",
+    "due_at": "2026-09-15T03:15:00Z",
+    "points_possible": 2.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "e4eb0d1c0df7"
+   }
+  },
+  "AUPP:asn:77662": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Quiz 5",
+    "due_at": "2026-09-22T03:15:00Z",
+    "points_possible": 1.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "b97e05cc4b07"
+   }
+  },
+  "AUPP:asn:77663": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Lab 5",
+    "due_at": "2026-09-22T03:15:00Z",
+    "points_possible": 2.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "ed7126374166"
+   }
+  },
+  "AUPP:asn:77749": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Midterm Quiz (CS)",
+    "due_at": "2026-09-29T04:45:00Z",
+    "points_possible": 20.0,
+    "unlock_at": "2026-09-29T03:15:00Z",
+    "lock_at": null,
+    "desc": "da39a3ee5e6b"
+   }
+  },
+  "AUPP:asn:77857": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Quiz 6",
+    "due_at": "2026-09-29T03:15:00Z",
+    "points_possible": 1.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "e30672d6d4ed"
+   }
+  },
+  "AUPP:asn:77858": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Lab 6",
+    "due_at": "2026-09-29T03:15:00Z",
+    "points_possible": 2.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "81e6d5267ee0"
+   }
+  },
+  "AUPP:asn:77946": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Quiz 7",
+    "due_at": "2026-10-06T03:15:00Z",
+    "points_possible": 1.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "1551f1c78b13"
+   }
+  },
+  "AUPP:asn:77947": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Lab 7",
+    "due_at": "2026-10-06T03:15:00Z",
+    "points_possible": 2.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "9ef9c13fea81"
+   }
+  },
+  "AUPP:asn:78104": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Quiz 8",
+    "due_at": "2026-10-13T03:15:00Z",
+    "points_possible": 1.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "8d9f7e6b131c"
+   }
+  },
+  "AUPP:asn:78105": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Lab 8",
+    "due_at": "2026-10-13T03:15:00Z",
+    "points_possible": 2.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "714c95fbc889"
+   }
+  },
+  "AUPP:asn:78441": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Quiz 9",
+    "due_at": "2026-10-20T03:15:00Z",
+    "points_possible": 1.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "d4fd72a7b188"
+   }
+  },
+  "AUPP:asn:78442": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Lab 9",
+    "due_at": "2026-10-20T03:15:00Z",
+    "points_possible": 2.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "3b7792ce596e"
+   }
+  },
+  "AUPP:asn:78785": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Quiz 10",
+    "due_at": "2026-10-27T03:15:00Z",
+    "points_possible": 1.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "6da5c8e47ba8"
+   }
+  },
+  "AUPP:asn:78786": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Lab 10",
+    "due_at": "2026-10-27T03:15:00Z",
+    "points_possible": 2.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "0cdf676b0683"
+   }
+  },
+  "AUPP:asn:79081": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Final Project",
+    "due_at": "2026-12-03T04:45:00Z",
+    "points_possible": 35.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "fb43d47a3f08"
+   }
+  },
+  "AUPP:asn:79101": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Quiz 11",
+    "due_at": "2026-11-03T03:15:00Z",
+    "points_possible": 1.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "310003cd015a"
+   }
+  },
+  "AUPP:asn:79102": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Lab 11",
+    "due_at": "2026-11-03T03:15:00Z",
+    "points_possible": 2.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "75368b0be3c3"
+   }
+  },
+  "AUPP:asn:76530": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Roll Call Attendance",
+    "due_at": null,
+    "points_possible": 100.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "da39a3ee5e6b"
+   }
+  },
+  "AUPP:asn:76877": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Lab1: Introduction",
+    "due_at": "2026-08-23T16:59:59Z",
+    "points_possible": 3.0,
+    "unlock_at": "2026-08-18T17:00:00Z",
+    "lock_at": null,
+    "desc": "3ebaf1a3000f"
+   }
+  },
+  "AUPP:asn:77263": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Lab 2: Univariate Analysis",
+    "due_at": "2026-08-30T16:59:59Z",
+    "points_possible": 3.0,
+    "unlock_at": "2026-08-26T18:00:00Z",
+    "lock_at": null,
+    "desc": "55089ddd54af"
+   }
+  },
+  "AUPP:asn:77555": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Lab 3: Data Quality and Preprocessing",
+    "due_at": "2026-09-06T16:59:59Z",
+    "points_possible": 3.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "da39a3ee5e6b"
+   }
+  },
+  "AUPP:asn:77770": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Lab 4: Visualization",
+    "due_at": "2026-09-20T16:59:59Z",
+    "points_possible": 3.0,
+    "unlock_at": "2026-09-13T17:00:00Z",
+    "lock_at": "2026-09-21T16:59:59Z",
+    "desc": "da39a3ee5e6b"
+   }
+  },
+  "AUPP:asn:78041": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Lab 5: EDA - Correlation Analysis",
+    "due_at": "2026-09-26T16:59:59Z",
+    "points_possible": 3.0,
+    "unlock_at": "2026-09-20T17:00:00Z",
+    "lock_at": "2026-09-27T16:59:59Z",
+    "desc": "da39a3ee5e6b"
+   }
+  },
+  "AUPP:asn:78173": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Lab 6: Basic probability ",
+    "due_at": "2026-10-03T16:59:59Z",
+    "points_possible": 3.0,
+    "unlock_at": "2026-09-28T06:00:00Z",
+    "lock_at": "2026-10-09T16:59:59Z",
+    "desc": "da39a3ee5e6b"
+   }
+  },
+  "AUPP:asn:78176": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Quiz 1",
+    "due_at": null,
+    "points_possible": 0.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "da39a3ee5e6b"
+   }
+  },
+  "AUPP:asn:78481": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Midterm- Requires Respondus LockDown Browser",
+    "due_at": "2026-10-07T06:35:00Z",
+    "points_possible": 30.0,
+    "unlock_at": "2026-10-07T05:10:00Z",
+    "lock_at": "2026-10-07T06:40:00Z",
+    "desc": "da39a3ee5e6b"
+   }
+  },
+  "AUPP:asn:78689": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Lab 7: Test",
+    "due_at": "2026-10-20T16:59:59Z",
+    "points_possible": 3.0,
+    "unlock_at": "2026-10-13T17:00:00Z",
+    "lock_at": "2026-10-20T16:59:59Z",
+    "desc": "da39a3ee5e6b"
+   }
+  },
+  "AUPP:asn:79228": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Lab 8: Linear Regression",
+    "due_at": "2026-10-31T16:59:59Z",
+    "points_possible": 2.0,
+    "unlock_at": "2026-10-24T17:00:00Z",
+    "lock_at": "2026-11-01T16:59:59Z",
+    "desc": "da39a3ee5e6b"
+   }
+  },
+  "AUPP:asn:77611": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Quiz 1 - Chapter 2 and 3",
+    "due_at": "2026-09-08T16:59:59Z",
+    "points_possible": 100.0,
+    "unlock_at": "2026-09-08T01:30:00Z",
+    "lock_at": "2026-09-08T16:59:59Z",
+    "desc": "4a23cd927c3a"
+   }
+  },
+  "AUPP:asn:77772": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "[Group Project] Exam 1 ",
+    "due_at": "2026-09-18T16:59:59Z",
+    "points_possible": 100.0,
+    "unlock_at": "2026-09-15T01:30:00Z",
+    "lock_at": "2026-09-22T16:59:59Z",
+    "desc": "84b0e1959502"
+   }
+  },
+  "AUPP:asn:78227": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Midterm Exam Part 1 - Project Proposal",
+    "due_at": "2026-09-29T16:59:59Z",
+    "points_possible": 100.0,
+    "unlock_at": "2026-09-28T17:00:00Z",
+    "lock_at": "2026-10-02T16:59:59Z",
+    "desc": "6344fa5e8ebe"
+   }
+  },
+  "AUPP:asn:78412": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "sMidterm Part 2: Project Presentation & Live Demo",
+    "due_at": "2026-10-20T16:59:59Z",
+    "points_possible": 100.0,
+    "unlock_at": "2026-10-04T17:00:00Z",
+    "lock_at": "2026-10-20T16:59:59Z",
+    "desc": "9eff54389de8"
+   }
+  },
+  "AUPP:asn:78580": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Extra Credit: Midterm Exam - Requires Respondus LockDown Browser",
+    "due_at": "2026-10-13T03:00:00Z",
+    "points_possible": 100.0,
+    "unlock_at": "2026-10-13T01:30:00Z",
+    "lock_at": "2026-10-13T05:00:00Z",
+    "desc": "da39a3ee5e6b"
+   }
+  },
+  "AUPP:asn:77448": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Assignment 02/09/2026",
+    "due_at": "2026-09-03T16:59:59Z",
+    "points_possible": 50.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "f208be50ba74"
+   }
+  },
+  "AUPP:asn:77818": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "ITM 340 001 - Quiz 16/09/2026",
+    "due_at": "2026-09-16T08:15:00Z",
+    "points_possible": 50.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "da39a3ee5e6b"
+   }
+  },
+  "AUPP:asn:77936": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Assignment 21/09/2026",
+    "due_at": "2026-09-25T16:59:59Z",
+    "points_possible": 50.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "f92c662878ab"
+   }
+  },
+  "AUPP:asn:78196": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Assignment 28/09/2026",
+    "due_at": "2026-10-04T16:59:59Z",
+    "points_possible": 50.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "262e1b2dc7cd"
+   }
+  },
+  "AUPP:asn:78327": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Midterm Examination Fall 2026 - ITM 340 001",
+    "due_at": "2026-10-07T08:30:00Z",
+    "points_possible": 50.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "da39a3ee5e6b"
+   }
+  },
+  "AUPP:asn:78965": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "name": "Assignment 19/10/2026",
+    "due_at": "2026-10-25T16:59:59Z",
+    "points_possible": 50.0,
+    "unlock_at": null,
+    "lock_at": null,
+    "desc": "f73723c9a17d"
+   }
+  },
+  "AUPP:mod:135204": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "COSC 111-Computer Science Survey Fall 2026.pdf"
+   }
+  },
+  "AUPP:mod:135205": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "1. What is Computer Science.pdf"
+   }
+  },
+  "AUPP:mod:135739": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "2. Survey Number Systems Binary Octal Hexa.pdf"
+   }
+  },
+  "AUPP:mod:135740": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "1. Number systems practice.pdf"
+   }
+  },
+  "AUPP:mod:135914": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "3 How Computers Represent Text, Numbers, Images, and Sound.pdf"
+   }
+  },
+  "AUPP:mod:137224": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "4 Data Compression.pdf"
+   }
+  },
+  "AUPP:mod:137474": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "5 Error_Detection_and_correction.pdf"
+   }
+  },
+  "AUPP:mod:137907": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "6 Data_Manipulation.pdf"
+   }
+  },
+  "AUPP:mod:138040": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "7 Boolean Logic & Logical Expressions.pdf"
+   }
+  },
+  "AUPP:mod:138667": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "8 Operating System Fundamentals.pdf"
+   }
+  },
+  "AUPP:mod:139010": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "9 Operating Systems, Boot Process & Security.pdf"
+   }
+  },
+  "AUPP:mod:139251": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "11 Data Transmission and Communication Protocols.pdf"
+   }
+  },
+  "AUPP:mod:139252": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "10 Network and the Internet.pdf"
+   }
+  },
+  "AUPP:mod:139788": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "12 Algorithms & Pseudocode.pdf"
+   }
+  },
+  "AUPP:mod:139789": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "13 FLowcharts and Iterative Structures.pdf"
+   }
+  },
+  "AUPP:mod:135576": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Python Crash Course, 3rd Ed_ (Z-Library)-1.pdf"
+   }
+  },
+  "AUPP:mod:140110": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "14.1 Introduction to Computers, Programs and Python.pdf"
+   }
+  },
+  "AUPP:mod:140111": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "14.2 Python fundamentals.pdf"
+   }
+  },
+  "AUPP:mod:140382": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "15 Python fundamentals if selection.pdf"
+   }
+  },
+  "AUPP:mod:141864": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "16 Python fundamentals.pdf"
+   }
+  },
+  "AUPP:mod:140839": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "COSC111_Midterm_Review.pdf"
+   }
+  },
+  "AUPP:mod:132864": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "SelfIntro.pptx"
+   }
+  },
+  "AUPP:mod:132937": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Syllabus - COSC121 - Computer Science A.docx"
+   }
+  },
+  "AUPP:mod:132939": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Introduction to Programming Using Python - Liang.pdf"
+   }
+  },
+  "AUPP:mod:132882": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Weekly Quizzes"
+   }
+  },
+  "AUPP:mod:132951": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Even Numbered Exercises.zip"
+   }
+  },
+  "AUPP:mod:132947": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Daniel Liang Python Videos"
+   }
+  },
+  "AUPP:mod:132952": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Examples.zip"
+   }
+  },
+  "AUPP:mod:132972": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Check Point.zip"
+   }
+  },
+  "AUPP:mod:132940": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Books"
+   }
+  },
+  "AUPP:mod:136427": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Weekly Schedule.png"
+   }
+  },
+  "AUPP:mod:132941": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "COSC121_Final_Project_Grading_Rubric.pdf"
+   }
+  },
+  "AUPP:mod:132942": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Final Project report-Template.docx"
+   }
+  },
+  "AUPP:mod:132945": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Start coding with PYTHON in 5 minutes!"
+   }
+  },
+  "AUPP:mod:132977": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Group Members"
+   }
+  },
+  "AUPP:mod:137031": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Samples_A.zip"
+   }
+  },
+  "AUPP:mod:132943": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Samples_B.zip"
+   }
+  },
+  "AUPP:mod:141839": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Final Project"
+   }
+  },
+  "AUPP:mod:141872": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Sample AI Projects"
+   }
+  },
+  "AUPP:mod:136379": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Quiz 1"
+   }
+  },
+  "AUPP:mod:136380": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lab 1"
+   }
+  },
+  "AUPP:mod:135832": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Crash Course Computer Science 7. The Central Processing Unit (CPU).pptx"
+   }
+  },
+  "AUPP:mod:135920": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "The Central Processing Unit (CPU): Crash Course Computer Science"
+   }
+  },
+  "AUPP:mod:135836": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Python turtle terminator error"
+   }
+  },
+  "AUPP:mod:136476": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Chapter 1 Exercises.zip"
+   }
+  },
+  "AUPP:mod:136395": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lab 2"
+   }
+  },
+  "AUPP:mod:136396": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Quiz 2"
+   }
+  },
+  "AUPP:mod:136426": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Data_Types_in_Python copy.pptx"
+   }
+  },
+  "AUPP:mod:136474": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Case Study - Compute the Minimum Change"
+   }
+  },
+  "AUPP:mod:136483": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Case Study - Displaying the Current Time"
+   }
+  },
+  "AUPP:mod:136938": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "The Truth About Quantum Computers | What the Physics?!"
+   }
+  },
+  "AUPP:mod:136936": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": " But what is quantum computing? (Grover's Algorithm)"
+   }
+  },
+  "AUPP:mod:137199": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Quiz 3"
+   }
+  },
+  "AUPP:mod:137200": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lab 3"
+   }
+  },
+  "AUPP:mod:137032": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "PPTs_Weeks 1-7.zip"
+   }
+  },
+  "AUPP:mod:137370": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Create a QUIZ GAME with Python \ud83d\udcaf"
+   }
+  },
+  "AUPP:mod:137374": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": " Generate random numbers in Python \ud83c\udfb2"
+   }
+  },
+  "AUPP:mod:137375": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Exercise02_23.py"
+   }
+  },
+  "AUPP:mod:137557": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Let's code a Python NUMBER GUESSING GAME! \ud83d\udd22"
+   }
+  },
+  "AUPP:mod:137556": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "ROCK PAPER SCISSORS game in Python \ud83d\uddff"
+   }
+  },
+  "AUPP:mod:137558": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "The Engineering that Runs the Digital World \ud83d\udee0\ufe0f\u2699\ufe0f\ud83d\udcbb How do CPUs Work?"
+   }
+  },
+  "AUPP:mod:137895": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Quiz 4"
+   }
+  },
+  "AUPP:mod:137896": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lab 4"
+   }
+  },
+  "AUPP:mod:138151": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Let's code a Python NUMBER GUESSING GAME! \ud83d\udd22"
+   }
+  },
+  "AUPP:mod:138152": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "ROCK PAPER SCISSORS game in Python \ud83d\uddff"
+   }
+  },
+  "AUPP:mod:137656": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": " Python Game Programming Tutorial: Snake Game"
+   }
+  },
+  "AUPP:mod:138157": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Quiz 5"
+   }
+  },
+  "AUPP:mod:138158": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lab 5"
+   }
+  },
+  "AUPP:mod:138288": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Pygame Tutorial #1 - Basic Movement and Key Presses"
+   }
+  },
+  "AUPP:mod:138159": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Python Projects"
+   }
+  },
+  "AUPP:mod:138810": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Nature of Code"
+   }
+  },
+  "AUPP:mod:138713": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Quiz 6"
+   }
+  },
+  "AUPP:mod:138714": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lab 6"
+   }
+  },
+  "AUPP:mod:138715": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Python PyQt5 setup a basic GUI Application! \ud83d\udda5\ufe0f"
+   }
+  },
+  "AUPP:mod:138993": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Midterm Quiz (CS)"
+   }
+  },
+  "AUPP:mod:138998": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Quiz 7"
+   }
+  },
+  "AUPP:mod:138999": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lab 7"
+   }
+  },
+  "AUPP:mod:139664": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Learn Python Object Oriented Programming! \ud83d\ude97"
+   }
+  },
+  "AUPP:mod:139001": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Intro to CS - Python | Khan Academy"
+   }
+  },
+  "AUPP:mod:139245": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": " What is Claude Code?"
+   }
+  },
+  "AUPP:mod:139775": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Video Notes"
+   }
+  },
+  "AUPP:mod:139360": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Quiz 8"
+   }
+  },
+  "AUPP:mod:139361": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lab 8"
+   }
+  },
+  "AUPP:mod:139926": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "String Methods"
+   }
+  },
+  "AUPP:mod:139927": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Define Classes"
+   }
+  },
+  "AUPP:mod:140177": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Request API data using Python in 8 minutes! \u21a9\ufe0f"
+   }
+  },
+  "AUPP:mod:140229": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Build A Telegram Chatbot in 12 Minutes (Tutorial)"
+   }
+  },
+  "AUPP:mod:140438": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "The Engineering that Runs the Digital World \ud83d\udee0\ufe0f\u2699\ufe0f\ud83d\udcbb How do CPUs Work?"
+   }
+  },
+  "AUPP:mod:140162": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Quiz 9"
+   }
+  },
+  "AUPP:mod:140163": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lab 9"
+   }
+  },
+  "AUPP:mod:140164": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Simple GUI"
+   }
+  },
+  "AUPP:mod:140165": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Create a GUI Application"
+   }
+  },
+  "AUPP:mod:140912": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Quiz 10"
+   }
+  },
+  "AUPP:mod:140913": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lab 10"
+   }
+  },
+  "AUPP:mod:140914": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Video Notes 10: Use Lists"
+   }
+  },
+  "AUPP:mod:140455": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Blender Python Tutorial : An Introduction to Scripting [how to learn python for beginners]"
+   }
+  },
+  "AUPP:mod:140915": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Video Notes 10: Search a List"
+   }
+  },
+  "AUPP:mod:141861": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "How do Video Game Graphics Work?"
+   }
+  },
+  "AUPP:mod:141877": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Quiz 11"
+   }
+  },
+  "AUPP:mod:141878": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lab 11"
+   }
+  },
+  "AUPP:mod:141879": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Video Notes 11: Process a Matrix"
+   }
+  },
+  "AUPP:mod:141880": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Video Notes 11: Chessboard"
+   }
+  },
+  "AUPP:mod:133873": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Syllabus_INF604_Data_Analysis.pdf"
+   }
+  },
+  "AUPP:mod:133875": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lecture1-Introduction-to-Data-Analysis.pdf"
+   }
+  },
+  "AUPP:mod:135751": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lab1-introduction.pdf"
+   }
+  },
+  "AUPP:mod:135862": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Getting_state_wtih_colab.ipynb"
+   }
+  },
+  "AUPP:mod:136350": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lecture2-Univariate_Analysis.pdf"
+   }
+  },
+  "AUPP:mod:136929": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lab2-Univariate_Analysis.pdf"
+   }
+  },
+  "AUPP:mod:136930": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Example Colab code"
+   }
+  },
+  "AUPP:mod:137195": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lecture3-Data_Quality_Preprocessing.pdf"
+   }
+  },
+  "AUPP:mod:137450": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lab3_Data_Quality_Preprocessing.pdf"
+   }
+  },
+  "AUPP:mod:138953": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lecture4-Data_Visualization.pdf"
+   }
+  },
+  "AUPP:mod:138954": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lab4_Data_Visualization.pdf"
+   }
+  },
+  "AUPP:mod:138950": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lecture5-EDA_Correlation_Analysis.pdf"
+   }
+  },
+  "AUPP:mod:138951": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lab5-EDA_Correlation_Analysis.pdf"
+   }
+  },
+  "AUPP:mod:138952": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Lecture6-Hypothesis_Testing.pdf"
+   }
+  },
+  "AUPP:mod:136104": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "IDE Setup.pdf"
+   }
+  },
+  "AUPP:mod:136107": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "ITM 201,001 - Java Programming I - Syllabus Fall 2026.pdf"
+   }
+  },
+  "AUPP:mod:136109": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Liang,_Y_Daniel_Introduction_to_Java_programming_brief_version_Pearson.pdf"
+   }
+  },
+  "AUPP:mod:136466": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Chapter 1, Intro to Java, Computer ,Program.pptx"
+   }
+  },
+  "AUPP:mod:136468": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Chapter 2, Elementary Programming.pptx"
+   }
+  },
+  "AUPP:mod:137402": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Chapter 3 Selections.pptx"
+   }
+  },
+  "AUPP:mod:138255": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Quiz 1 - Chapter 2 and 3"
+   }
+  },
+  "AUPP:mod:138256": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Chapter 5 Loops.pptx"
+   }
+  },
+  "AUPP:mod:138518": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "[Group Project] Exam 1 "
+   }
+  },
+  "AUPP:mod:139065": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Chapter 6, Methods.ppt"
+   }
+  },
+  "AUPP:mod:139648": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Midterm Exam Part 1 - Project Proposal"
+   }
+  },
+  "AUPP:mod:140142": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "sMidterm Part 2: Project Presentation & Live Demo"
+   }
+  },
+  "AUPP:mod:140614": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Extra Credit: Midterm Exam - Requires Respondus LockDown Browser"
+   }
+  },
+  "AUPP:mod:134888": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Linear Algebra and its Applications by David C Lay.pdf"
+   }
+  },
+  "AUPP:mod:135845": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "1 Systems of Linear Equations.pdf"
+   }
+  },
+  "AUPP:mod:135846": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "1 340 Practice Question_19_08_26.pdf"
+   }
+  },
+  "AUPP:mod:136385": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "2 Row Reduction and Echelon Forms.pdf"
+   }
+  },
+  "AUPP:mod:136386": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "2 340 Practice Question_24_08_26.pdf"
+   }
+  },
+  "AUPP:mod:136843": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "3 Vector Equations.pdf"
+   }
+  },
+  "AUPP:mod:136844": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "3 340 Practice Question_26_08_26.pdf"
+   }
+  },
+  "AUPP:mod:137171": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "4 Solution Sets for Linear Systems.pdf"
+   }
+  },
+  "AUPP:mod:137172": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "4 340 Practice Question_31_08_26.pdf"
+   }
+  },
+  "AUPP:mod:137865": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "5 Linear Independence.pdf"
+   }
+  },
+  "AUPP:mod:137866": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "5 340 Practice Question_07_09_26.pdf"
+   }
+  },
+  "AUPP:mod:138089": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "6 Linear & Matrix Transformations.pdf"
+   }
+  },
+  "AUPP:mod:138090": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "6 340 Practice Question_09_09_26.pdf"
+   }
+  },
+  "AUPP:mod:138403": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "7 Matrix Operations.pdf"
+   }
+  },
+  "AUPP:mod:138404": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "7 340 Practice Question_14_09_26.pdf"
+   }
+  },
+  "AUPP:mod:138974": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "8 Matrix Factorization_Leontief Input-Output Model.pdf"
+   }
+  },
+  "AUPP:mod:139191": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "9 Application of computer graphics.pdf"
+   }
+  },
+  "AUPP:mod:139192": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "9 340 Practice Question_23_09_26.pdf"
+   }
+  },
+  "AUPP:mod:139496": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "10 Determinants and their Properties.pdf"
+   }
+  },
+  "AUPP:mod:139562": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "Review Material.pdf"
+   }
+  },
+  "AUPP:mod:140069": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "340 Practice Question.pdf"
+   }
+  },
+  "AUPP:mod:139761": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "11 Vector Spaces and Subspaces.pdf"
+   }
+  },
+  "AUPP:mod:139762": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "11 340 Practice Question_30_09_26.pdf"
+   }
+  },
+  "AUPP:mod:140836": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "12 Coordination System, Dimension and Rank of the Vector space.pdf"
+   }
+  },
+  "AUPP:mod:141833": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "15 Eigenvectors and Eigenvalues.pdf"
+   }
+  },
+  "AUPP:mod:141834": {
+   "t": "2026-10-24T12:25:12.848995+00:00",
+   "v": {
+    "title": "15 340 Practice Questions.pdf"
+   }
+  }
+ }
 }
