@@ -615,6 +615,20 @@ def main():
     accounts = [Canvas(a["name"], a["base_url"], a["token"], a.get("expires")) for a in data]
 
     state = load_state()
+    if not state.get("menu_set"):  # show the commands in Telegram's "/" menu (once)
+        try:
+            r = requests.post(
+                f"https://api.telegram.org/bot{CFG['tg_token']}/setMyCommands",
+                json={"commands": [
+                    {"command": "upcoming", "description": "Deadlines (add days, e.g. /upcoming 14)"},
+                    {"command": "courses", "description": "Your active courses"},
+                    {"command": "status", "description": "Is the bot running?"},
+                    {"command": "help", "description": "List commands"},
+                ]}, timeout=30,
+            )
+            state["menu_set"] = r.ok
+        except Exception as e:
+            print(f"[menu] {e}", file=sys.stderr)
     while True:
         poll_once(accounts, state)
         handle_commands(accounts, state)
